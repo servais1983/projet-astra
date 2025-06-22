@@ -2,7 +2,7 @@
 
 # 🛡️ PROJET ASTRA
 
-<img src="./assets/astra-logo.svg" alt="Projet Astra Logo" width="250" height="250" />
+<img src="astra.png" alt="Projet Astra Logo" width="250" height="250" />
 
 ### *Framework de Cybersécurité pour Constellations de Satellites*
 ### **Protection en Profondeur contre les Cyberattaques Spatiales**
