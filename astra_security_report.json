@@ -1,0 +1,150 @@
+{
+  "system_status": {
+    "timestamp": "2025-07-04T20:20:35.106278",
+    "sentry": "OPERATIONAL",
+    "wave": "OPERATIONAL",
+    "hive": "OPERATIONAL",
+    "core": "OPERATIONAL",
+    "recent_events": [
+      {
+        "timestamp": "2025-07-04 20:20:34",
+        "type": "HIVE",
+        "message": "Erreur d'analyse IA : 'AdvancedAnomalyDetector' object has no attribute 'prepare_features'",
+        "severity": "ERROR"
+      },
+      {
+        "timestamp": "2025-07-04 20:20:34",
+        "type": "SYSTEM",
+        "message": "\u274c COMMANDE BLOQU\u00c9E : Anomalie r\u00e9seau (score: 1.000)",
+        "severity": "CRITICAL"
+      },
+      {
+        "timestamp": "2025-07-04 20:20:34",
+        "type": "SYSTEM",
+        "message": "D\u00e9but d'ex\u00e9cution de commande critique : CMD:SET_ORBIT;SAT:ASTRA-042;PARAMS:400km,90deg",
+        "severity": "INFO"
+      },
+      {
+        "timestamp": "2025-07-04 20:20:34",
+        "type": "CORE",
+        "message": "Int\u00e9grit\u00e9 firmware valid\u00e9e",
+        "severity": "INFO"
+      },
+      {
+        "timestamp": "2025-07-04 20:20:34",
+        "type": "HIVE",
+        "message": "Erreur d'analyse IA : 'AdvancedAnomalyDetector' object has no attribute 'prepare_features'",
+        "severity": "ERROR"
+      },
+      {
+        "timestamp": "2025-07-04 20:20:34",
+        "type": "SYSTEM",
+        "message": "\u274c COMMANDE BLOQU\u00c9E : Anomalie r\u00e9seau (score: 1.000)",
+        "severity": "CRITICAL"
+      },
+      {
+        "timestamp": "2025-07-04 20:20:34",
+        "type": "SYSTEM",
+        "message": "D\u00e9but d'ex\u00e9cution de commande critique : CMD:EMERGENCY_SHUTDOWN;SAT:ASTRA-042",
+        "severity": "INFO"
+      },
+      {
+        "timestamp": "2025-07-04 20:20:35",
+        "type": "CORE",
+        "message": "Int\u00e9grit\u00e9 firmware valid\u00e9e",
+        "severity": "INFO"
+      },
+      {
+        "timestamp": "2025-07-04 20:20:35",
+        "type": "HIVE",
+        "message": "Erreur d'analyse IA : 'AdvancedAnomalyDetector' object has no attribute 'prepare_features'",
+        "severity": "ERROR"
+      },
+      {
+        "timestamp": "2025-07-04 20:20:35",
+        "type": "SYSTEM",
+        "message": "\u274c COMMANDE BLOQU\u00c9E : Anomalie r\u00e9seau (score: 1.000)",
+        "severity": "CRITICAL"
+      }
+    ]
+  },
+  "security_events": [
+    {
+      "timestamp": "2025-07-04 20:20:34",
+      "type": "SYSTEM",
+      "message": "D\u00e9but d'ex\u00e9cution de commande critique : CMD:SET_ORBIT;SAT:ASTRA-042;PARAMS:400km,90deg",
+      "severity": "INFO"
+    },
+    {
+      "timestamp": "2025-07-04 20:20:34",
+      "type": "CORE",
+      "message": "Int\u00e9grit\u00e9 firmware valid\u00e9e",
+      "severity": "INFO"
+    },
+    {
+      "timestamp": "2025-07-04 20:20:34",
+      "type": "HIVE",
+      "message": "Erreur d'analyse IA : 'AdvancedAnomalyDetector' object has no attribute 'prepare_features'",
+      "severity": "ERROR"
+    },
+    {
+      "timestamp": "2025-07-04 20:20:34",
+      "type": "SYSTEM",
+      "message": "\u274c COMMANDE BLOQU\u00c9E : Anomalie r\u00e9seau (score: 1.000)",
+      "severity": "CRITICAL"
+    },
+    {
+      "timestamp": "2025-07-04 20:20:34",
+      "type": "SYSTEM",
+      "message": "D\u00e9but d'ex\u00e9cution de commande critique : CMD:SET_ORBIT;SAT:ASTRA-042;PARAMS:400km,90deg",
+      "severity": "INFO"
+    },
+    {
+      "timestamp": "2025-07-04 20:20:34",
+      "type": "CORE",
+      "message": "Int\u00e9grit\u00e9 firmware valid\u00e9e",
+      "severity": "INFO"
+    },
+    {
+      "timestamp": "2025-07-04 20:20:34",
+      "type": "HIVE",
+      "message": "Erreur d'analyse IA : 'AdvancedAnomalyDetector' object has no attribute 'prepare_features'",
+      "severity": "ERROR"
+    },
+    {
+      "timestamp": "2025-07-04 20:20:34",
+      "type": "SYSTEM",
+      "message": "\u274c COMMANDE BLOQU\u00c9E : Anomalie r\u00e9seau (score: 1.000)",
+      "severity": "CRITICAL"
+    },
+    {
+      "timestamp": "2025-07-04 20:20:34",
+      "type": "SYSTEM",
+      "message": "D\u00e9but d'ex\u00e9cution de commande critique : CMD:EMERGENCY_SHUTDOWN;SAT:ASTRA-042",
+      "severity": "INFO"
+    },
+    {
+      "timestamp": "2025-07-04 20:20:35",
+      "type": "CORE",
+      "message": "Int\u00e9grit\u00e9 firmware valid\u00e9e",
+      "severity": "INFO"
+    },
+    {
+      "timestamp": "2025-07-04 20:20:35",
+      "type": "HIVE",
+      "message": "Erreur d'analyse IA : 'AdvancedAnomalyDetector' object has no attribute 'prepare_features'",
+      "severity": "ERROR"
+    },
+    {
+      "timestamp": "2025-07-04 20:20:35",
+      "type": "SYSTEM",
+      "message": "\u274c COMMANDE BLOQU\u00c9E : Anomalie r\u00e9seau (score: 1.000)",
+      "severity": "CRITICAL"
+    }
+  ],
+  "hsm_keys": [
+    "Operator-01-Key"
+  ],
+  "pqc_channels": "ACTIVE",
+  "ai_model": "OPERATIONAL"
+}
